@@ -1,2 +1,2 @@
 # sqlite_snippets
-SQLite Function Snippets
+SQLite3 Function Snippets
